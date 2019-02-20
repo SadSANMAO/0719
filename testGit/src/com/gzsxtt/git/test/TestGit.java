@@ -6,4 +6,8 @@ public class TestGit {
 		System.out.println("this is a first git repository");
 		System.out.println("update git");
 	}
+	
+	public void testgit(){
+		System.out.println("update git");
+	}
 }
